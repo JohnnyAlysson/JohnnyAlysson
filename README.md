@@ -15,7 +15,7 @@
  &nbsp;
  &nbsp;
 
-
+<img src="https://th.bing.com/th/id/OIG.of1mzsjmPLyAMBlNE7rA?pid=ImgGn" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ## My Skills
 
@@ -24,8 +24,6 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;-->
-
-<img src="https://th.bing.com/th/id/OIG.ZMC46FoChihfb534eSh0?pid=ImgGn" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Studying at the moment:
 
