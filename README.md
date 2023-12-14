@@ -7,7 +7,7 @@
 <div  align="center" style="margin-bottom:100px">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JohnnyAlysson&theme=tokyonight" alt="GitHub Streak" /></a>
 <p></p>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" alt="GitHub Languages" /></a>
+<a href="https://github.com/JohnnyAlysson/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyAlysson&layout=compact&theme=tokyonight" alt="GitHub Languages" /></a>
 
 
 </div>
