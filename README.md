@@ -2,7 +2,7 @@
 <!--<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/rafaelalexandrino/rafaelalexandrino/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp;-->
 
-<p align="center">  <strong>Hello World , My name is Johnny Alysson</strong> <br><br> Embarking on a great adventure quest to become a Full stack developer !!!  <br><br> :crossed_swords::man_technologist: <br><br> </p>&nbsp;
+<p align="center">  <strong>Hello World , My name is Johnny Alysson</strong> <br><br>I'm a father, teacher, Lego lover and Rpg Game master <br><br> Now, I'm embarking on a great adventure quest to become a Full stack developer !!!  <br><br> :crossed_swords::man_technologist: <br><br> </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JohnnyAlysson&theme=tokyonight" alt="GitHub Streak" /></a>
@@ -56,4 +56,4 @@
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CE6DEE&height=120&section=footer"/>
