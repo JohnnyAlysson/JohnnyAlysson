@@ -15,7 +15,7 @@
  &nbsp;
  &nbsp;
 
-<img src="https://th.bing.com/th/id/OIG.of1mzsjmPLyAMBlNE7rA?pid=ImgGn" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://th.bing.com/th/id/OIG.DlKVVwIPf6BDMNPEFJPw?w=1024&h=1024&rs=1&pid=ImgDetMain" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ## My Skills
 
