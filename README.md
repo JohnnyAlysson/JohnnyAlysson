@@ -60,6 +60,7 @@
   <br>
   <a href="https://www.youtube.com/watch?v=Uf4rxCB4lys">><i> My favorite song of all time is Johnny B Goode - Chuck Berry 🎶</i><a>
 
+
   - I have worked in many areas across my life, including but not limited to: Barista, graphic designer, video editor, accommodation assistant, salesman, industrial mechanic(almost aircraft mechanic) , teacher and school coordinator.
   - I'm a TTRPG Game master and I have run a few games: DeD 5e , Vampire 5e, Call of Cthulu 7e,
   - I buy toys for my son however, I am the one who play with then.
