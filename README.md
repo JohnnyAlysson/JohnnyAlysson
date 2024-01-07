@@ -1,18 +1,12 @@
 
-<p align="center">  <strong>Hello World , My name is Johnny Alysson</strong> <br><br>I'm a father, teacher, Lego lover and Rpg Game master <br><br> Now, I'm embarking on a great adventure quest to become a Full stack developer !!!  <br><br> :crossed_swords::man_technologist: <br><br> </p>&nbsp;
+<p align="center">  <strong>Hello World , My name is Johnny Alysson</strong> <br><br>I'm a father, teacher, Lego lover and Rpg Game master <br><br> Now, I'm embarking on a great adventure quest to become a Full stack developer !!!  <br><br> :crossed_swords::man_technologist: <br><br> </p>
 
-<div  align="center" style="margin-bottom:100px">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JohnnyAlysson&theme=tokyonight" alt="GitHub Streak" /></a>
-<p></p>
-<a href="https://github.com/JohnnyAlysson/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyAlysson&layout=compact&theme=tokyonight" alt="GitHub Languages" /></a>
-
-
+<div  align="center"  style="margin-bottom:100px">
+<a align="left" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JohnnyAlysson&theme=tokyonight" alt="GitHub Streak" /></a>
+<a align="right" href="https://github.com/JohnnyAlysson/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyAlysson&layout=compact&theme=tokyonight" alt="GitHub Languages" /></a>
 </div>
- 
- &nbsp;
- &nbsp;
 
-<img src="https://th.bing.com/th/id/OIG.DlKVVwIPf6BDMNPEFJPw?w=1024&h=1024&rs=1&pid=ImgDetMain" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://th.bing.com/th/id/OIG.DlKVVwIPf6BDMNPEFJPw?w=1024&h=1024&rs=1&pid=ImgDetMain" min-width="400px" max-width="400px" width="400px" align="right" alt="Programmer">
 
 # My Skills
 
@@ -26,8 +20,6 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-
-&nbsp;
 ## Designer tools:
 
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)&nbsp;
@@ -41,23 +33,18 @@
 <img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="20"> - French Intermediate  
 <img src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="20"> - Spanish Beginner  
 
-
-
-
 # Contacts:
-
 <div> 
-</a>
 <a href = "mailto:johnalysson30@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="www.linkedin.com/in/johnnyalysson" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>  
-</div>&nbsp;&nbsp;
- 
+</div>
+&nbsp;&nbsp;
 <details>
   <summary>Crazy facts about my life:</summary>
   <br>
   <a href="https://www.youtube.com/watch?v=Uf4rxCB4lys">><i> My favorite song of all time is Johnny B Goode - Chuck Berry 🎶</i><a>
-
-
+   <br><br>
+   
   - I have worked in many areas across my life, including but not limited to: Barista, graphic designer, video editor, accommodation assistant, salesman, industrial mechanic(almost aircraft mechanic) , teacher and school coordinator.
   - I'm a TTRPG Game master and I have run a few games: DeD 5e , Vampire 5e, Call of Cthulu 7e,
   - I buy toys for my son however, I am the one who play with then.
