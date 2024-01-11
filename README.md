@@ -2,8 +2,8 @@
 <p align="center">  <strong>Hello World , My name is Johnny Alysson</strong> <br><br>I'm a father, teacher, Lego lover and Rpg Game master <br><br> Now, I'm embarking on a great adventure quest to become a Full stack developer !!!  <br><br> :crossed_swords::man_technologist: <br><br> </p>
 
 <div  align="center"  style="margin-bottom:100px">
-<a align="left" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JohnnyAlysson&theme=tokyonight" alt="GitHub Streak" /></a>
-<a align="right" href="https://github.com/JohnnyAlysson/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyAlysson&layout=compact&theme=tokyonight" alt="GitHub Languages" /></a>
+<a align= "left href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JohnnyAlysson&theme=tokyonight&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+<a align= "right" href="https://github.com/JohnnyAlysson/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyAlysson&layout=compact&theme=tokyonight" alt="GitHub Languages" /></a>
 </div>
 
 <img src="https://th.bing.com/th/id/OIG.DlKVVwIPf6BDMNPEFJPw?w=1024&h=1024&rs=1&pid=ImgDetMain" min-width="400px" max-width="400px" width="400px" align="right" alt="Programmer">
@@ -16,9 +16,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![VisualcodeStudio](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+<!--![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)-->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## Designer tools:
 
