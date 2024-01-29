@@ -2,9 +2,11 @@
 <p align="center">  <strong>Hello World , My name is Johnny Alysson</strong> <br><br>I'm a father, teacher, Lego lover and Rpg Game master <br><br> Now, I'm embarking on a great adventure quest to become a Full stack developer !!!  <br><br> :crossed_swords::man_technologist: <br><br> </p>
 
 <div  align="center"  style="margin-bottom:100px">
-<a align= "left href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JohnnyAlysson&theme=tokyonight&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
-<a align= "right" href="https://github.com/JohnnyAlysson/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyAlysson&layout=compact&theme=tokyonight" alt="GitHub Languages" /></a>
+<a align= "left href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JohnnyAlysson&theme=dracula&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+<!-- <a align= "right" href="https://github.com/JohnnyAlysson/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyAlysson&layout=compact&theme=tokyonight" alt="GitHub Languages" /></a> -->
+<a align= "right" href="https://github.com/JohnnyAlysson/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyAlysson&layout=donut&theme=dracula" alt="GitHub Languages" /></a>
 </div>
+
 
 <img src="https://th.bing.com/th/id/OIG.DlKVVwIPf6BDMNPEFJPw?w=1024&h=1024&rs=1&pid=ImgDetMain" min-width="400px" max-width="400px" width="400px" align="right" alt="Programmer">
 
@@ -50,7 +52,8 @@
   - I'm a TTRPG Game master and I have run a few games: DeD 5e , Vampire 5e, Call of Cthulu 7e,
   - I buy toys for my son however, I am the one who play with then.
 
- ![My github stats](https://github-readme-stats.vercel.app/api?username=JohnnyAlysson&show_icons=true&theme=nord)
+ ![My github stats](https://github-readme-stats.vercel.app/api?username=JohnnyAlysson&show_icons=true&theme=dracula)
+ [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JohnnyAlysson)](https://github.com/anuraghazra/github-readme-stats)
  <br><br> 
  </details> 
   
