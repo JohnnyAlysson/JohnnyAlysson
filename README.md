@@ -3,7 +3,6 @@
 
 <div  align="center"  style="margin-bottom:100px">
 <a align= "left href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JohnnyAlysson&theme=dracula&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
-<!-- <a align= "right" href="https://github.com/JohnnyAlysson/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyAlysson&layout=compact&theme=tokyonight" alt="GitHub Languages" /></a> -->
 <a align= "right" href="https://github.com/JohnnyAlysson/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyAlysson&layout=donut&theme=dracula" alt="GitHub Languages" /></a>
 </div>
 
