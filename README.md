@@ -2,8 +2,8 @@
 <p align="center">  <strong>Hello World , My name is Johnny Alysson</strong> <br><br>I'm a father, teacher, Lego lover and Rpg Game master <br><br> Now, I'm embarking on a great adventure quest to become a Full stack developer !!!  <br><br> :crossed_swords::man_technologist: <br><br> </p>
 
 <div  align="center"  style="margin-bottom:100px">
-<a aling="left" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JohnnyAlysson&theme=tokyonight&hide_border=true&border_radius=10&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
-<a align= "right" href="https://github.com/JohnnyAlysson"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyAlysson&show_icons=true&layout=donut&theme=tokyonight&hide=jupyter%20notebook&langs_count=8" alt="GitHub Languages" /></a>
+<a aling="left" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JohnnyAlysson&theme=tokyonight&border_radius=10&exclude_days=Sun%2CSat" alt="GitHub Streak values" /></a>
+<a align= "right" href="https://github.com/JohnnyAlysson"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyAlysson&show_icons=true&layout=donut&theme=tokyonight&hide=jupyter%20notebook&langs_count=5" alt="GitHub Languages" /></a>
 </div>
 
 
